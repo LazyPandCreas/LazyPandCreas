@@ -1,29 +1,67 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Andrea
-==============================================================================================================================
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 
-Junior Web Developer
---------------------
+###
 
-* 🌍  I'm based in Milan
-* 📚  I'm student: [Start2Impact](https://www.start2impact.it)
-* 🖥️  See my portfolio [here](https://gear95.github.io/portfolio/)
-* 🚀  I'm currently working on [My portfolio](https://gear95.github.io/portfolio/)
+<div align="center">
+  <a href="https://www.linkedin.com/in/andrea-meini/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <a href="https://gear95.github.io/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&label=&color=1de9b6&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linktree logo"  />
+  </a>
+</div>
 
+###
 
-<a href="https://www.github.com/Gear95" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Gear95?logo=github&style=for-the-badge&color=facc15&labelColor=1c1917" /></a>
+<h1 align="center">hey there 👋</h1>
 
-### Skills
+###
 
+<h3 align="left">👩‍💻  About Me</h3>
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
-</p>
+###
 
-### Badges
+<p align="center">I'm Andrea from Italy<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I enjoy coding personal projects</p>
 
-<b>My GitHub Stats</b>
+###
 
-<a href="https://github.com/Gear95" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gear95&langs_count=10&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<h3 align="left">🛠 Language and tools</h3>
 
-<a href="http://www.github.com/Gear95"><img src="https://github-readme-stats.vercel.app/api?username=Gear95&show_icons=true&hide=&count_private=true&title_color=84cc16&text_color=ffffff&icon_color=facc15&bg_color=1c1917&hide_border=true&show_icons=true" alt="Gear95's GitHub stats" /></a>
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
+
+<h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gear95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Gear95&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=true&order=1" height="250" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=Gear95&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
+</div>
+
+###
