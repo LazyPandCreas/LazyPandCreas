@@ -64,7 +64,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gear95&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=dracula&hide_border=true&order=2" height="150" alt="languages graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=Gear95&show_icons=true&theme=dracula&hide_border=true" height="250" alt="stats graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=LazyPandCreas&show_icons=true&theme=dracula&hide_border=true" height="250" alt="stats graph" /> <br>
   <img src="https://streak-stats.demolab.com?user=Gear95&locale=en&mode=daily&theme=dracula&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
 
