@@ -24,7 +24,7 @@
 
 ###
 
-<p align="center">I'm Andrea from Italy<br><br>- 🔭 I’m working as a Software Developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I enjoy coding personal projects</p>
+<p align="center">I'm Andrea from Italy<br><br>- 🔭 I’m working as a Jr. Software Developer<br>- 📚 I'm currently learning React<br>- ⚡ In my free time I enjoy coding personal projects</p>
 
 ###
 
