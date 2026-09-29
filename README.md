@@ -1,108 +1,122 @@
-<div align="center">
-  <img
-    height="150"
-    src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"
-    alt="coding gif"
-  />
-</div>
+<img alt="LazyPandCreas header" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:14213d&height=150&section=header&text=LazyPandCreas&fontSize=40&fontColor=ffffff" width="100%"/>
 
-<br>
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/andrea-meini/" target="_blank">
+<p align="center">
     <img
-      src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="LinkedIn"
+    alt="Typing animation"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=fca311&center=true&width=600&lines=Jr.+Software+Developer;If+it+works%2C+let%27s+make+it+modular.;Debugging+things+that+worked+five+minutes+ago;Building+things+I+probably+didn%27t+need+to+build"
     />
-  </a>
-
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Discord&logo=discord&color=7289DA&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="Discord"
-    />
-  </a>
-
-  <a href="https://linktr.ee/andrea.meini/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?message=Linktree&logo=linktree&color=1de9b6&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="Linktree"
-    />
-  </a>
-</div>
-
-<br>
-
-<h1 align="center">Hey there 👋</h1>
-
-<br>
-
-<h3 align="left">🧑‍💻 About Me</h3>
-
-<p align="left">
-  I'm Andrea from Italy 🇮🇹<br><br>
-  🔭 Jr. Software Developer<br>
-  📚 Currently learning Angular<br>
-  ⚡ I enjoy building personal projects and experimenting with new technologies
 </p>
 
-<br>
+<p align="center">
+  <a href="https://www.linkedin.com/in/andrea-meini/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-14213d?style=for-the-badge&logo=linkedin&logoColor=ffffff"/>
+  </a>
+  <a href="https://lazypandcreas.github.io/">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-fca311?style=for-the-badge&logo=githubpages&logoColor=000000"/>
+  </a>
+  <a href="https://linktr.ee/andrea.meini/">
+    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-14213d?style=for-the-badge&logo=linktree&logoColor=ffffff"/>
+  </a>
+</p>
 
-<h3 align="left">🛠 Languages and Tools</h3>
+---
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-</div>
+## `~/about`
 
-<br>
+```text
+andrea@lazypandcreas:~$ whoami
+Andrea · Jr. Software Developer · Milan, Italy 🇮🇹
 
-<h3 align="left">🔥 GitHub Stats</h3>
+andrea@lazypandcreas:~$ tabs --count
+200+ (somehow, everything still works)
+```
 
-<div align="center">
+> I like building systems: from enterprise apps to local AI and game dev, I enjoy understanding how things work and turning ideas into something usable.
 
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPandCreas&layout=compact&theme=dracula&hide_border=true"
-    height="150"
-    alt="Top Languages"
-  />
+---
 
-  <br><br>
+## `~/now`
 
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=LazyPandCreas&show_icons=true&theme=dracula&hide_border=true"
-    height="180"
-    alt="GitHub Stats"
-  />
+```text
+andrea@lazypandcreas:~$ cat now.txt
 
-  <br><br>
+→ working     Power Platform · Enterprise Applications
+→ building    LazyAI (Python · Ollama · local agents)
+→ learning    Angular · React
+→ exploring   AI agents · Linux · system architecture
+→ goal        grow my open-source presence + first GitHub achievement
+```
 
-  <img
-    src="https://streak-stats.demolab.com?user=LazyPandCreas&theme=dracula&hide_border=true"
-    height="180"
-    alt="GitHub Streak"
-  />
+---
 
-</div>
+## `~/stack`
+
+**Core**
+
+<img alt="Core languages" src="https://skillicons.dev/icons?i=html,css,ts,js,py,lua,php,mysql&theme=dark" />
+
+**Frameworks**
+
+<img alt="Frameworks" src="https://skillicons.dev/icons?i=angular,react,nodejs,bootstrap&theme=dark" />
+
+**Tools & Environment**
+
+<img alt="Tools" src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows&theme=dark" />
+
+**Also**
+
+<sub>Power Platform · Power Apps · Power Automate · Ollama · FiveM · NUI</sub>
+
+---
+
+## `~/stats`
+
+<p align="center">
+  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=LazyPandCreas&show_icons=true&hide_border=true&bg_color=000000&title_color=fca311&text_color=e5e5e5&icon_color=fca311" />
+  <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPandCreas&layout=compact&hide_border=true&bg_color=000000&title_color=fca311&text_color=e5e5e5" />
+</p>
+
+<p align="center">
+  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=LazyPandCreas&background=000000&ring=fca311&fire=fca311&currStreakLabel=fca311&sideLabels=e5e5e5&currStreakNum=ffffff&sideNums=ffffff&dates=e5e5e5&hide_border=true" />
+</p>
+
+---
+
+## `~/projects`
+
+```text
+$ ls ~/projects
+
+LazyAI/              -> local AI agents (Python · Ollama)     [building]
+The-Panda-s-Game/    -> JavaScript exercise turned game       [done]
+LazyPandCreas.github.io/
+                     -> personal portfolio                    [live]
+```
+
+* [The-Panda-s-Game](https://github.com/LazyPandCreas/The-Panda-s-Game): JavaScript exercise turned into a small game
+* [LazyPandCreas.github.io](https://github.com/LazyPandCreas/LazyPandCreas.github.io): personal portfolio
+
+---
+
+## `~/journey`
+
+```text
+andrea@lazypandcreas:~$ git log --oneline --graph
+
+* building   LazyAI · local-first AI
+* learning   Angular · React
+* exploring  AI agents · local LLMs · Linux
+* shipped    Personal portfolio
+* started    The Panda's Game
+```
+
+---
+
+```text
+[  OK  ] Loaded module: coffee.service
+[ WARN ] 200+ browser tabs open
+[ WARN ] Debugging the pancreas: not supported
+[  OK  ] System still operational
+```
+
+<img alt="Footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:fca311,100:14213d&height=100&section=footer" width="100%"/>
