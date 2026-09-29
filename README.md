@@ -70,14 +70,15 @@ andrea@lazypandcreas:~$ cat now.txt
 ---
 
 ## `~/stats`
-
 <p align="center">
-  <img alt="GitHub stats" height="170" src="https://github-readme-stats.vercel.app/api?username=LazyPandCreas&show_icons=true&hide_border=true&bg_color=000000&title_color=fca311&text_color=e5e5e5&icon_color=fca311" />
-  <img alt="Top languages" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LazyPandCreas&layout=compact&hide_border=true&bg_color=000000&title_color=fca311&text_color=e5e5e5" />
-</p>
-
-<p align="center">
-  <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=LazyPandCreas&background=000000&ring=fca311&fire=fca311&currStreakLabel=fca311&sideLabels=e5e5e5&currStreakNum=ffffff&sideNums=ffffff&dates=e5e5e5&hide_border=true" />
+  <img
+    alt="GitHub Stats"
+    src="https://www.gitskins.com/api/section/stats?username=LazyPandCreas&theme=cyber&style=aura"
+  />
+  <img
+    alt="GitHub Stack"
+    src="https://www.gitskins.com/api/section/stack?username=LazyPandCreas&theme=cyber&style=aura"
+  />
 </p>
 
 ---
