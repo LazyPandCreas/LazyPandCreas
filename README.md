@@ -70,14 +70,11 @@ andrea@lazypandcreas:~$ cat now.txt
 ---
 
 ## `~/stats`
+
 <p align="center">
   <img
-    alt="GitHub Stats"
-    src="https://www.gitskins.com/api/section/stats?username=LazyPandCreas&theme=cyber&style=aura"
-  />
-  <img
-    alt="GitHub Stack"
-    src="https://www.gitskins.com/api/section/stack?username=LazyPandCreas&theme=cyber&style=aura"
+    alt="GitHub streak"
+    src="https://streak-stats.demolab.com?user=LazyPandCreas&background=000000&ring=fca311&fire=fca311&currStreakLabel=fca311&sideLabels=fca311&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=e5e5e5&hide_border=true"
   />
 </p>
 
