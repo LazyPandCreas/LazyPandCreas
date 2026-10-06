@@ -1,10 +1,10 @@
 <img alt="LazyPandCreas header" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:14213d&height=150&section=header&text=LazyPandCreas&fontSize=40&fontColor=ffffff" width="100%"/>
 
 <p align="center">
-    <img
+  <img
     alt="Typing animation"
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=fca311&center=true&width=600&lines=Jr.+Software+Developer;If+it+works%2C+let%27s+make+it+modular.;Debugging+things+that+worked+five+minutes+ago;Building+things+I+probably+didn%27t+need+to+build"
-    />
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=fca311&center=true&width=600&lines=Jr.+Software+Developer;Building+modular+software;Exploring+local-first+AI;Understanding+systems+from+the+inside+out"
+  />
 </p>
 
 <p align="center">
@@ -13,9 +13,6 @@
   </a>
   <a href="https://lazypandcreas.github.io/">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-fca311?style=for-the-badge&logo=githubpages&logoColor=000000"/>
-  </a>
-  <a href="https://linktr.ee/andrea.meini/">
-    <img alt="Linktree" src="https://img.shields.io/badge/Linktree-14213d?style=for-the-badge&logo=linktree&logoColor=ffffff"/>
   </a>
 </p>
 
@@ -26,12 +23,11 @@
 ```text
 andrea@lazypandcreas:~$ whoami
 Andrea · Jr. Software Developer · Milan, Italy 🇮🇹
-
-andrea@lazypandcreas:~$ tabs --count
-200+ (somehow, everything still works)
 ```
 
-> I like building systems: from enterprise apps to local AI and game dev, I enjoy understanding how things work and turning ideas into something usable.
+> I like building systems: from enterprise applications to local AI and game development.
+> I'm interested in understanding how things work under the hood and turning ideas into
+> modular, reusable and usable software.
 
 ---
 
@@ -44,39 +40,28 @@ andrea@lazypandcreas:~$ cat now.txt
 → building    LazyAI (Python · Ollama · local agents)
 → learning    Angular · React
 → exploring   AI agents · Linux · system architecture
-→ goal        grow my open-source presence + first GitHub achievement
+→ goal        build useful software and contribute to open source
 ```
 
 ---
 
 ## `~/stack`
 
-**Core**
+**Frontend**
 
-<img alt="Core languages" src="https://skillicons.dev/icons?i=html,css,ts,js,py,lua,php,mysql&theme=dark" />
+<img alt="Frontend" src="https://skillicons.dev/icons?i=html,css,ts,js,angular,react,bootstrap&theme=dark" />
 
-**Frameworks**
+**Backend & Data**
 
-<img alt="Frameworks" src="https://skillicons.dev/icons?i=angular,react,nodejs,bootstrap&theme=dark" />
+<img alt="Backend and data" src="https://skillicons.dev/icons?i=python,nodejs,php,mysql&theme=dark" />
 
 **Tools & Environment**
 
 <img alt="Tools" src="https://skillicons.dev/icons?i=git,github,vscode,linux,windows&theme=dark" />
 
-**Also**
+**Platform & Other**
 
-<sub>Power Platform · Power Apps · Power Automate · Ollama · FiveM · NUI</sub>
-
----
-
-## `~/stats`
-
-<p align="center">
-  <img
-    alt="GitHub streak"
-    src="https://streak-stats.demolab.com?user=LazyPandCreas&background=000000&ring=fca311&fire=fca311&currStreakLabel=fca311&sideLabels=fca311&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=e5e5e5&hide_border=true"
-  />
-</p>
+<sub>Power Platform · Power Apps · Power Automate · Ollama · FiveM · NUI · Lua</sub>
 
 ---
 
@@ -85,27 +70,52 @@ andrea@lazypandcreas:~$ cat now.txt
 ```text
 $ ls ~/projects
 
-LazyAI/              -> local AI agents (Python · Ollama)     [building]
-The-Panda-s-Game/    -> JavaScript exercise turned game       [done]
+LazyAI/              -> local-first AI assistant                [building]
+The-Panda-s-Game/    -> JavaScript exercise turned game        [done]
 LazyPandCreas.github.io/
-                     -> personal portfolio                    [live]
+                     -> personal portfolio                     [live]
 ```
 
-* [The-Panda-s-Game](https://github.com/LazyPandCreas/The-Panda-s-Game): JavaScript exercise turned into a small game
-* [LazyPandCreas.github.io](https://github.com/LazyPandCreas/LazyPandCreas.github.io): personal portfolio
+### LazyAI
+
+> A local-first AI assistant built around local LLMs, modular components
+> and an architecture designed to minimize reliance on cloud APIs.
+
+`Python` `Ollama` `Local LLMs` `Agents`
+
+**Status:** `building`
+
+### The Panda's Game
+
+> A small game originally created as a JavaScript exercise and later
+> expanded into a playable project.
+
+`JavaScript` `HTML` `CSS`
+
+**Status:** `done`
+
+### Personal Portfolio
+
+> My personal portfolio and playground for experimenting with frontend
+> technologies, UI and web development.
+
+`HTML` `CSS` `JavaScript`
+
+**Status:** `live`
 
 ---
 
-## `~/journey`
+## `~/focus`
 
 ```text
-andrea@lazypandcreas:~$ git log --oneline --graph
+andrea@lazypandcreas:~$ cat focus.txt
 
-* building   LazyAI · local-first AI
-* learning   Angular · React
-* exploring  AI agents · local LLMs · Linux
-* shipped    Personal portfolio
-* started    The Panda's Game
+→ software architecture
+→ local-first AI
+→ reusable frontend systems
+→ Linux & self-hosted infrastructure
+→ developer tooling
+→ open source
 ```
 
 ---
