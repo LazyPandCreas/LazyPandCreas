@@ -70,13 +70,13 @@ andrea@lazypandcreas:~$ cat now.txt
 ```text
 $ ls ~/projects
 
-LazyAI/              -> local-first AI assistant                [building]
+AIAssistant/              -> local-first AI assistant                [building]
 The-Panda-s-Game/    -> JavaScript exercise turned game        [done]
 LazyPandCreas.github.io/
                      -> personal portfolio                     [live]
 ```
 
-### LazyAI
+### AIAssistant
 
 > A local-first AI assistant built around local LLMs, modular components
 > and an architecture designed to minimize reliance on cloud APIs.
